@@ -1,47 +1,47 @@
-# profine Group - Репозитории разработки
+# profine Group – Development Repositories
 
-Добро пожаловать в группу репозиториев компании **profine Group** и **KBE** для ИТ-проектов и разработки.
+Welcome to the **profine Group** and **KBE** repositories group for IT projects and software development.
 
-## О компании
+## About the Company
 
-**profine Group** — международный производитель ПВХ-профилей для оконных и дверных систем, а также поставщик солнцезащитных систем и ПВХ-листов.
+**profine Group** is an international manufacturer of PVC profiles for window and door systems, as well as a supplier of sun protection systems and PVC sheets.
 
-Компания имеет многолетний опыт работы в отрасли и представлена в различных странах мира. Основные бренды группы включают KBE, KÖMMERLING, KNIPPING и TROCAL.
+The company has many years of industry experience and is represented in various countries worldwide.
 
-## Структура репозиториев
+## Repository Structure
 
-Данная группа репозиториев содержит:
+This repositories group contains:
 
-- **Веб-сайты** — исходный код корпоративных сайтов и веб-приложений
-- **ИТ-инфраструктура** — конфигурации, скрипты и инструменты для управления инфраструктурой
-- **Инструменты разработки** — внутренние утилиты и библиотеки
-- **Документация** — техническая документация проектов
+- **Websites** – source code for corporate websites and web applications  
+- **IT Infrastructure** – configurations, scripts, and tools for infrastructure management  
+- **Development Tools** – internal utilities and libraries  
+- **Documentation** – technical project documentation  
 
-## Ссылки
+## Links
 
 - [profine Group](https://www.profine-group.ru/)
 - [KBE Online](https://www.kbe-online.com/ru/ru/)
 
-## Начало работы
+## Getting Started
 
-Для работы с репозиториями:
+To work with the repositories:
 
-1. Убедитесь, что у вас есть доступ к организации
-2. Клонируйте необходимый репозиторий
-3. Ознакомьтесь с документацией в конкретном репозитории
-4. Следуйте стандартам разработки, указанным в каждом проекте
+1. Ensure you have access to the organization
+2. Clone the required repository
+3. Review the documentation in the specific repository
+4. Follow the development standards specified in each project
 
-## Стандарты разработки
+## Development Standards
 
-- Используйте виртуальные окружения для Python-проектов
-- Следуйте соглашениям о наименовании веток и коммитов
-- Ведите документацию в формате Markdown
-- Используйте `.gitignore` для исключения служебных файлов
+- Use virtual environments for Python projects
+- Follow branch naming and commit message conventions
+- Maintain documentation in Markdown format
+- Use `.gitignore` to exclude system and build artifacts
 
-## Лицензия
+## License
 
-Все репозитории являются внутренними проектами компании profine Group и предназначены для использования сотрудниками и партнерами компании.
+All repositories are internal company projects of **profine Group** and are intended for use by company employees and partners only.
 
 ---
 
-**profine Group** — Ваш надежный партнер в производстве ПВХ-профилей и светопрозрачных конструкций.
+**profine Group** – your reliable partner in the production of PVC profiles and translucent building structures.
